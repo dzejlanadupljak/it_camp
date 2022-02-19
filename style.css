@@ -1,0 +1,42 @@
+h1 {
+  color: aqua;
+  background-color: black;
+}
+.kocka {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mojaklasa {
+  background-color: rgb(41, 39, 39);
+  color: bisque;
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+  border: 3px;
+  border-color: rgb(90, 90, 90);
+  padding: 50px;
+  display: inline-block;
+  margin: 0px 10px 10px 10px;
+}
+.novaklasa {
+  background-color: rgb(41, 39, 39);
+  color: bisque;
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+  padding: 50px;
+  display: inline-block;
+  margin: 10px;
+}
+.poslednja {
+  background-color: rgb(41, 39, 39);
+  color: bisque;
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+  padding: 50px;
+  display: inline-block;
+  margin: 10px;
+}
